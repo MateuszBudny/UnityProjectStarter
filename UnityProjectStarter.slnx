@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="MCPForUnity.Editor.csproj" />
+  <Project Path="NodeCanvas.csproj" />
+  <Project Path="TagsAndLayers.csproj" />
+  <Project Path="LowkeyFramework.csproj" />
+  <Project Path="ParadoxNotion.csproj" />
+  <Project Path="Assembly-CSharp-firstpass.csproj" />
+  <Project Path="MCPForUnity.Runtime.csproj" />
+  <Project Path="LowkeyFrameworkTests.csproj" />
+</Solution>
